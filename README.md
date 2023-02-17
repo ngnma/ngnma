@@ -7,7 +7,9 @@ I am a fourth year computer engineering student at Shahid Beheshti University.
 - 💬 Ask me about Computer architecture.
 - 📫 How to reach me: n.mashayekhi456@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnma)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnma&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngnma&show_icons=true&theme=radical)
 
 <!--
 **ngnma/ngnma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
