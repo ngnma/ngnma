@@ -1,10 +1,9 @@
 ### Hi there 👋
-I am a fourth year computer engineering student at Shahid Beheshti University.
+I am CE student at Shahid Beheshti University.
 
 - 🔭 I’m currently working on Hardware.
 - 🌱 I’m currently learning Deep learning.
 - 👯 I’m looking for cooperation in the interdisciplinary field of artificial intelligence and hardware.
-- 💬 Ask me about Computer architecture.
 - 📫 How to reach me: n.mashayekhi456@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnma&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
