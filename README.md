@@ -1,10 +1,5 @@
 ### Hi there 👋
-I am CE student at Shahid Beheshti University.
-
-- 🔭 I’m currently working on Hardware accelerators.
-- 🌱 I’m currently learning graph neural networks(GNNs).
-- 👯 I’m looking for cooperation in the interdisciplinary field of artificial intelligence and hardware.
-- 📫 How to reach me: n.mashayekhi456@gmail.com
+I am Data Analyst
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnma&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
