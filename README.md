@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Data Analyst
+I’m an MSc Artificial Intelligence student at the University of Essex with a foundation in Computer Engineering and two years’ industry experience in data analytics. I enjoy turning data into practical AI solutions and collaborating across technical and non-technical teams. I’m currently looking for part-time RA opportunities and AI/ML roles in the UK. You can reach me at n.mashayekhi456@gmail.com
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngnma&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
